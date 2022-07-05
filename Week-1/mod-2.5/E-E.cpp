@@ -20,7 +20,7 @@ int main()
         cout << res;
     }
 
-    if(n<k){
+    else{
         for(int i=1; i<=n; i++){
             res=res+x;
         }
