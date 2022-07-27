@@ -16,7 +16,7 @@ int main()
 
 
     string st2="abcd";
-    string st3="wxyz";
+    string st3="bp bp bp wxyz";
     string n=st2+st3;
 
     cout<<n<<endl;

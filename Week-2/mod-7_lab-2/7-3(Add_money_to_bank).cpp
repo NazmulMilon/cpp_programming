@@ -68,7 +68,7 @@ void add_money(BankAccount *myAccount)
 }
 int main()
 {
-    //create_account();
+    create_account();
     BankAccount *myAccount = create_account();
     cout<<"Your bank balance is: "<<myAccount->show_balance("abc")<<endl;
     add_money(myAccount);
