@@ -29,6 +29,7 @@ int main()
             if(arr[i]==val)
             {
                 cout<<"Index: "<<i<<" Position: "<<i+1<<endl;
+                //break;    //unique case;
                 flag=1;
             }
         }
